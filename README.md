@@ -1,0 +1,1 @@
+All the codes have already been submitted and got accepted on the official at coder contest, i DO NOT guarantee that those are the best solutions possible NOR the shortest ones, they are simply the solution that came to mind/i learned.
